@@ -1,0 +1,14 @@
+/Users/praveenreddy/Praveen/LearnDotNetCore/BasicAuthWebAPI/bin/Debug/netcoreapp2.2/BasicAuthWebAPI.deps.json
+/Users/praveenreddy/Praveen/LearnDotNetCore/BasicAuthWebAPI/bin/Debug/netcoreapp2.2/BasicAuthWebAPI.runtimeconfig.json
+/Users/praveenreddy/Praveen/LearnDotNetCore/BasicAuthWebAPI/bin/Debug/netcoreapp2.2/BasicAuthWebAPI.runtimeconfig.dev.json
+/Users/praveenreddy/Praveen/LearnDotNetCore/BasicAuthWebAPI/bin/Debug/netcoreapp2.2/BasicAuthWebAPI.dll
+/Users/praveenreddy/Praveen/LearnDotNetCore/BasicAuthWebAPI/bin/Debug/netcoreapp2.2/BasicAuthWebAPI.pdb
+/Users/praveenreddy/Praveen/LearnDotNetCore/BasicAuthWebAPI/obj/Debug/netcoreapp2.2/BasicAuthWebAPI.csprojAssemblyReference.cache
+/Users/praveenreddy/Praveen/LearnDotNetCore/BasicAuthWebAPI/obj/Debug/netcoreapp2.2/BasicAuthWebAPI.csproj.CoreCompileInputs.cache
+/Users/praveenreddy/Praveen/LearnDotNetCore/BasicAuthWebAPI/obj/Debug/netcoreapp2.2/BasicAuthWebAPI.RazorAssemblyInfo.cache
+/Users/praveenreddy/Praveen/LearnDotNetCore/BasicAuthWebAPI/obj/Debug/netcoreapp2.2/BasicAuthWebAPI.RazorAssemblyInfo.cs
+/Users/praveenreddy/Praveen/LearnDotNetCore/BasicAuthWebAPI/obj/Debug/netcoreapp2.2/BasicAuthWebAPI.AssemblyInfoInputs.cache
+/Users/praveenreddy/Praveen/LearnDotNetCore/BasicAuthWebAPI/obj/Debug/netcoreapp2.2/BasicAuthWebAPI.AssemblyInfo.cs
+/Users/praveenreddy/Praveen/LearnDotNetCore/BasicAuthWebAPI/obj/Debug/netcoreapp2.2/BasicAuthWebAPI.RazorTargetAssemblyInfo.cache
+/Users/praveenreddy/Praveen/LearnDotNetCore/BasicAuthWebAPI/obj/Debug/netcoreapp2.2/BasicAuthWebAPI.dll
+/Users/praveenreddy/Praveen/LearnDotNetCore/BasicAuthWebAPI/obj/Debug/netcoreapp2.2/BasicAuthWebAPI.pdb
